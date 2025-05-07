@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,CH 2
-http://xtv.ooo:8080/live/213112/213112/350972.ts$
 
 #EXTINF:-1,RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
