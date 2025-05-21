@@ -534,21 +534,6 @@ https://cdn.163189.xyz/live/tvbp/stream.m3u8
 #EXTINF:-1,TVBP
 http://cdn.132.us.kg/live/tvbp/stream.m3u8
 
-#EXTINF:-1,test 1
-http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-
-#EXTINF:-1,test 2
-http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-
-#EXTINF:-1,test 3
-http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-
-#EXTINF:-1,test 4
-http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-
-#EXTINF:-1,test 5
-http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
-
 #EXTINF:-1,Channel 5 (B)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/22
 
